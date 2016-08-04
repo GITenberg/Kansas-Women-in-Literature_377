@@ -1,0 +1,32 @@
+_repo: Kansas-Women-in-Literature_377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Nettie Garmer
+    gutenberg_agent_id: '207'
+    url: http://www.gutenberg.org/2009/agents/207
+description: ''
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Kansas -- Intellectual life'
+- !lcc 'PS'
+- !lcsh 'Women authors, American -- Homes and haunts -- Kansas'
+- !lcsh 'Kansas -- Biography'
+- !lcsh 'Women and literature -- Kansas'
+- !lcsh 'Kansas -- In literature'
+- GITenberg
+tableOfContents: Effie Graham -- Esther M. Clark -- Mary Vance Humphrey -- Kate A.
+  Aplington -- Emma Upton Vaughn -- Jessie Wright Whitecomb -- Myra Williams Jarrell
+  -- Ellen Palmer Allerton -- Emma Tanner Wood -- Cornelia M. Stockton -- Margaret
+  Hill Mccarter -- Bessie May Bellman. and June Bellman Henthorne -- Amanda T. Jones
+  -- Charlotte F. Wilder -- Anna L. January -- Hattie Horner Louthan -- Eva Morley
+  Murphy -- Sallie F. Toler -- Anna E. Arnold.
+title: Kansas Women in Literature
+url: http://www.gutenberg.org/ebooks/377
