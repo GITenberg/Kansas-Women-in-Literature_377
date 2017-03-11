@@ -1,11 +1,16 @@
 _repo: Kansas-Women-in-Literature_377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barker, Nettie Garmer
     gutenberg_agent_id: '207'
     url: http://www.gutenberg.org/2009/agents/207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/377#Kansas-Women-in-Literature
 gutenberg_issued: '2008-07-09'
 gutenberg_type: Text
 identifiers:
